@@ -1,0 +1,7 @@
+<div class="enhanceable_content tabs">
+    <div id="fragment-1">
+        <h3><span style="background-color: #fbeeb8;">Instruction associated with this assignment:&nbsp;<a style="background-color: #fbeeb8;" title="📖Introduction to CSS" href="https://dsd.instructure.com/courses/1331407/pages/introduction-to-css" data-course-type="wikiPages" data-published="true" data-api-endpoint="https://dsd.instructure.com/api/v1/courses/1331407/pages/introduction-to-css" data-api-returntype="Page"><strong>Introduction to CSS</strong></a></span></h3>
+        <p><span style="font-size: 14pt;"><strong>Using different structures of stylesheets and the 'bank' of CSS rules given to you, make each page of this website match the following:</strong></span></p>
+        <p><span style="font-size: 14pt;"><strong>**Note: <span style="background-color: #bfedd2;">There are walk-through videos for the majority of these styles on the&nbsp;</span></strong><span style="background-color: #bfedd2;"><a style="background-color: #bfedd2;" title="📖Introduction to CSS" href="https://dsd.instructure.com/courses/1331407/pages/introduction-to-css" data-course-type="wikiPages" data-published="true" data-api-endpoint="https://dsd.instructure.com/api/v1/courses/1331407/pages/introduction-to-css" data-api-returntype="Page"><strong>Introduction to CSS</strong></a></span><strong><span style="background-color: #bfedd2;">&nbsp;page</span>. View those to complete the first parts of each page and have a better understanding of what you need to do to finish them**</strong></span></p>
+    </div>
+</div>
