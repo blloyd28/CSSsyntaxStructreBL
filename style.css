@@ -1,34 +1,42 @@
-body{
+body { 
   max-width: 700px; 
-  margin: auto;
-  background-color: black;
-  color: lightgrey;
-}
-a{
+  margin: auto; 
+  background-color: black; 
+  color: lightgrey; 
+} 
+
+a { 
   color: green;
-}
-ol{
-  color: green;
-  list-style-type: none;
+} 
+
+ol { 
+  color: green; 
+  list-style-type: none; 
+  font-weight: bold; 
   padding-left: 100px;
-  font-weight: bold;
-  padding-top: 40px;
-}
-img{
+  padding-top: 40px; 
+} 
+
+img { 
   width: 150px;
-  border-radius: 50%;
-padding-left: 100px;
-  
+  border-radius: 50%; 
+  padding-left: 100px;
+} 
+
+h1 { 
+  text-align: center; 
+} 
+
+#return { 
+  text-align: right; 
+} 
+
+.panda-list-item { 
+  float: left; 
+  width: 150px; 
 }
-h1{
+
+
+.panda-list-item p { 
   text-align: center;
-}
-#return{
-text-align: right;
-}
-.panda-list-item{
-  float: left;
-  width: 150px;
-p{
-text-align: center;
 }
